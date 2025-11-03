@@ -93,8 +93,8 @@ html {
 /* Header */
 header {
     position: fixed;
-    top: 0;
-    left: 0;
+    /* top: 0; */
+    /* left: 0; */
     z-index: 99999;
 
     padding: 1.375em 7em;
